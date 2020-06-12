@@ -1,322 +1,979 @@
 #EXTM3U
-#EXTINF:0,DE: RTL HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/410
-#EXTINF:0,DE: RTL Living HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1420
-#EXTINF:0,DE: VOX HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/415
-#EXTINF:0,DE: ProSieben HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1191
-#EXTINF:0,DE: SAT 1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1200
-#EXTINF:0,DE: Discovery channel HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/397
-#EXTINF:0,DE: Nat Geo Wild HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/864
-#EXTINF:0,DE: NatGeo HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/389
-#EXTINF:0,DE: TLC HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2778
-#EXTINF:0,DE: DMAX
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1192
-#EXTINF:0,DE: CRIME + INVESTIGATION
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2092
-#EXTINF:0,DE: DAZN 1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/5597
-#EXTINF:0,DE: DAZN 2 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/5598
-#EXTINF:0,DE: FOX HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/371
-#EXTINF:0,DE: Sky Sport 2 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/375
-#EXTINF:0,DE: Sky Sport 1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/376
-#EXTINF:0,DE: SKY KRIMI
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/391
-#EXTINF:0,DE: Disney Cinemagic HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/393
-#EXTINF:0,DE: SKY Emotion HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/395
-#EXTINF:0,DE: Sky Comedy HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/399
-#EXTINF:0,DE: Sky Cinema HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/400
-#EXTINF:0,DE: Sky Bundesliga 1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/403
-#EXTINF:0,DE: Sky Atlantic HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/405
-#EXTINF:0,DE: Sky Cinema Action HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/406
-#EXTINF:0,DE: 13TH Street
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/407
-#EXTINF:0,DE: RTL NITRO
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/409
-#EXTINF:0,DE: RTL 2 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/411
-#EXTINF:0,DE: Sky Sport Austria HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/412
-#EXTINF:0,DE: Sky Sports News HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/416
-#EXTINF:0,DE: TNT Film HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/495
-#EXTINF:0,DE: ServusTv
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/496
-#EXTINF:0,DE: SKY Cinema  +24 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1076
-#EXTINF:0,DE: SKY Cinema Hits HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1077
-#EXTINF:0,DE: SUPER RTL
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1194
-#EXTINF:0,DE: SIXX
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1197
-#EXTINF:0,DE: Das Erste
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1210
-#EXTINF:0,DE: RTL PASSION FHD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1212
-#EXTINF:0,DE: Pro 7 Maxx HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1213
-#EXTINF:0,DE: Sky Bundesliga 2 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1421
-#EXTINF:0,DE: Sky Bundesliga 3 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1422
-#EXTINF:0,DE: Sky Bundesliga 4 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1423
-#EXTINF:0,DE: ZDF HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1424
-#EXTINF:0,DE: Kika
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1425
-#EXTINF:0,DE: ORF1
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1426
-#EXTINF:0,DE: Spiegel Geschichte HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1497
-#EXTINF:0,DE: RomanceTV
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1753
-#EXTINF:0,DE: Sky Bundesliga 5 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1835
-#EXTINF:0,DE: Sky Bundesliga 6 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1836
-#EXTINF:0,DE: Sky Bundesliga 7 HD ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1837
-#EXTINF:0,DE: Sky Bundesliga 8 HD (during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1838
-#EXTINF:0,DE: Sky Bundesliga 10 HD (during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/1840
-#EXTINF:0,DE: Sat 1 Gold
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2089
-#EXTINF:0,DE: MOTORVISION
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2093
-#EXTINF:0,DE: History Channel HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2094
-#EXTINF:0,DE: NDR HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2097
-#EXTINF:0,DE: SKY SPORT 3 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2259
-#EXTINF:0,DE: SKY SPORT 4 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2260
-#EXTINF:0,DE: SKY SPORT 5 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2261
-#EXTINF:0,DE: SKY SPORT 6 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2262
-#EXTINF:0,DE: SKY SPORT 7 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2263
-#EXTINF:0,DE: SKY SPORT 8 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2264
-#EXTINF:0,DE: SKY SPORT 9 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2265
-#EXTINF:0,DE: SKY SPORT 10 ( during match )
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2266
-#EXTINF:0,DE: Universal Channel HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2621
-#EXTINF:0,DE: TELE 5 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2769
-#EXTINF:0,DE: TNT Comedy HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2772
-#EXTINF:0,DE: TNT Serie HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2773
-#EXTINF:0,DE: Heimatkanal
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2774
-#EXTINF:0,DE: RTL Crime HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2776
-#EXTINF:0,DE: SyFy HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/2836
-#EXTINF:0,DE: ORF 2 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/3115
-#EXTINF:0,DE: Kinowelt TV HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/3223
-#EXTINF:0,DE: Eurosport 2 Xtra HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/5338
-#EXTINF:0,DE: SKY 1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/5594
-#EXTINF:0,DE: Kabel 1 Classics
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/5596
-#EXTINF:0,DE: Sky Cinema +1 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7745
-#EXTINF:0,DE: Sky Cinema +24
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7746
-#EXTINF:0,DE: Sky Cinema Action
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7747
-#EXTINF:0,DE: Sky Cinema Family
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7749
-#EXTINF:0,DE: Sky Cinema Family HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7750
-#EXTINF:0,DE: Sky Cinema Nostalgie
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7751
-#EXTINF:0,DE: Sky Sport 1
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7752
-#EXTINF:0,DE: Sky Sport 2
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7753
-#EXTINF:0,DE: Jukebox
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7756
-#EXTINF:0,DE: Disney XD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7758
-#EXTINF:0,DE: Sky Cinema
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7760
-#EXTINF:0,DE: Sky Sport Austria
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/7761
-#EXTINF:0,DE: 3Sat HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8654
-#EXTINF:0,DE: SWR BW HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8655
-#EXTINF:0,DE: MDR HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8656
-#EXTINF:0,DE: N24 HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8657
-#EXTINF:0,DE: NTV HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8658
-#EXTINF:0,DE: Phoenix HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8659
-#EXTINF:0,DE: Anixe HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8660
-#EXTINF:0,DE: ZDF Neo HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8661
-#EXTINF:0,DE: ARD HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8663
-#EXTINF:0,DE: Sport 1  HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/8664
-#EXTINF:0,DE: Planet HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/13479
-#EXTINF:0,DE: Deluxe Music HD
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/13480
-#EXTINF:0,DE: Select HD8
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14401
-#EXTINF:0,DE: Select HD7
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14402
-#EXTINF:0,DE: Select HD6
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14403
-#EXTINF:0,DE: Select HD5
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14404
-#EXTINF:0,DE: Select HD4
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14405
-#EXTINF:0,DE: Select HD3
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14406
-#EXTINF:0,DE: Select HD2
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14407
-#EXTINF:0,DE: Select HD1
-#EXTGRP:unsorted
-http://iptv.dns05.com:8010/gCHtiqeJEZ/GnHJESiNFz/14408
+#EXTINF:-1,DE: 3 SAT FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43623
+#EXTINF:-1,DE: 5 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43624
+#EXTINF:-1,DE: 7 MAXX HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43625
+#EXTINF:-1,DE: 1-2-3 TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43626
+#EXTINF:-1,DE: 13th Street FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43627
+#EXTINF:-1,DE: 4+ HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43628
+#EXTINF:-1,DE: A&E FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43629
+#EXTINF:-1,DE: Alex Berlin HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43630
+#EXTINF:-1,DE: ALLGAU TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43631
+#EXTINF:-1,DE: ANIMAL PLANET FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43632
+#EXTINF:-1,DE: ANIXE FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43633
+#EXTINF:-1,DE: ANIXE Serie HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43634
+#EXTINF:-1,DE: ARD Alpha
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43635
+#EXTINF:-1,DE: ARD FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43636
+#EXTINF:-1,DE: ARD ONE HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43637
+#EXTINF:-1,DE: ARTE HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43638
+#EXTINF:-1,DE: Astro TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43639
+#EXTINF:-1,DE: ATLANTIC HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43640
+#EXTINF:-1,DE: ATV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43641
+#EXTINF:-1,DE: Augsburg TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43642
+#EXTINF:-1,DE: AUSBURG TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43643
+#EXTINF:-1,DE: Austria 24
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43644
+#EXTINF:-1,DE: Auto Moto Sport FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43645
+#EXTINF:-1,DE: Auto Motor und Sport HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43646
+#EXTINF:-1,DE: AXN FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43647
+#EXTINF:-1,DE: B LIGA 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43648
+#EXTINF:-1,DE: B LIGA 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43649
+#EXTINF:-1,DE: Baby TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43650
+#EXTINF:-1,DE: BADEN TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43651
+#EXTINF:-1,DE: BAERN REGIONAL
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43652
+#EXTINF:-1,DE: Bayerisches Fernsehen Süd HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43653
+#EXTINF:-1,DE: Bibel TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43654
+#EXTINF:-1,DE: Bibel TV Impuls HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43655
+#EXTINF:-1,DE: BLK Regional TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43656
+#EXTINF:-1,DE: BluMaX 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43657
+#EXTINF:-1,DE: BluMaX 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43658
+#EXTINF:-1,DE: BluMaX 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43659
+#EXTINF:-1,DE: BluMaX 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43660
+#EXTINF:-1,DE: BluMaX 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43661
+#EXTINF:-1,DE: BluMaX 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43662
+#EXTINF:-1,DE: BluMaX 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43663
+#EXTINF:-1,DE: BluMaX 8 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43664
+#EXTINF:-1,DE: BluMaX 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43665
+#EXTINF:-1,DE: BluMaX 10 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43666
+#EXTINF:-1,DE: Boomerang FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43667
+#EXTINF:-1,DE: BOSS Movies 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43668
+#EXTINF:-1,DE: BOSS Movies 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43669
+#EXTINF:-1,DE: BOSS Movies 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43670
+#EXTINF:-1,DE: BOSS Movies 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43671
+#EXTINF:-1,DE: BR ALPHA
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43672
+#EXTINF:-1,DE: BR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43673
+#EXTINF:-1,DE: Brandnite TV Music
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43674
+#EXTINF:-1,DE: C TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43675
+#EXTINF:-1,DE: CARTOON NETWORK FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43676
+#EXTINF:-1,DE: Chaula Music HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43677
+#EXTINF:-1,DE: Cine Box 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43678
+#EXTINF:-1,DE: Cine Box 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43679
+#EXTINF:-1,DE: Cine Box 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43680
+#EXTINF:-1,DE: CINE FILM CLUB 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43681
+#EXTINF:-1,DE: CINE SELECT 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43682
+#EXTINF:-1,DE: CINE SELECT 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43683
+#EXTINF:-1,DE: CINE SELECT 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43684
+#EXTINF:-1,DE: CINE SELECT 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43685
+#EXTINF:-1,DE: CINE SELECT 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43686
+#EXTINF:-1,DE: Cinema 24
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43687
+#EXTINF:-1,DE: Cinema Collection 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43688
+#EXTINF:-1,DE: Classica HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43689
+#EXTINF:-1,DE: COMEDY CENTRAL FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43690
+#EXTINF:-1,DE: Crime+ Investigation HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43691
+#EXTINF:-1,DE: DAS ERSTE FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43692
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43693
+#EXTINF:-1,DE: DAZN 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43694
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43695
+#EXTINF:-1,DE: DAZN 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43696
+#EXTINF:-1,DE: DAZN BAR 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43697
+#EXTINF:-1,DE: DAZN Bar 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43698
+#EXTINF:-1,DE: Deluxe Music HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43699
+#EXTINF:-1,DE: Deutsches Musik Fernsehen
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43700
+#EXTINF:-1,DE: DEUTSCHLAND
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43701
+#EXTINF:-1,DE: Discovery Channel FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43702
+#EXTINF:-1,DE: Disney Channel FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43703
+#EXTINF:-1,DE: Disney Cinemagic FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43704
+#EXTINF:-1,DE: Disney JIUNIOR FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43705
+#EXTINF:-1,DE: Disney Junior HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43706
+#EXTINF:-1,DE: Disney XD HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43707
+#EXTINF:-1,DE: DMAX FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43708
+#EXTINF:-1,DE: DONAU TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43709
+#EXTINF:-1,DE: DORF TV AUSRTIA
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43710
+#EXTINF:-1,DE: DRF 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43711
+#EXTINF:-1,DE: DW Deutsch+ HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43712
+#EXTINF:-1,DE: DW TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43713
+#EXTINF:-1,DE: E! FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43714
+#EXTINF:-1,DE: Eagle Cinema 007 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43715
+#EXTINF:-1,DE: Eagle Cinema Abenteuer FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43716
+#EXTINF:-1,DE: Eagle Cinema Aktion FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43717
+#EXTINF:-1,DE: Eagle Cinema Animation FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43718
+#EXTINF:-1,DE: Eagle Cinema Biografie FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43719
+#EXTINF:-1,DE: Eagle Cinema Drama FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43720
+#EXTINF:-1,DE: Eagle Cinema Geschichte FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43721
+#EXTINF:-1,DE: Eagle Cinema Horror FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43722
+#EXTINF:-1,DE: Eagle Cinema Komodie FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43723
+#EXTINF:-1,DE: Eagle Cinema Lächeln FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43724
+#EXTINF:-1,DE: Eagle Cinema Mythologie FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43725
+#EXTINF:-1,DE: Eagle Cinema Premiere FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43726
+#EXTINF:-1,DE: Eagle Cinema Religion FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43727
+#EXTINF:-1,DE: Eagle Cinema Romantisch FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43728
+#EXTINF:-1,DE: Eagle Cinema sci-fi FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43729
+#EXTINF:-1,DE: Eagle Cinema Thriller HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43730
+#EXTINF:-1,DE: Eagle Game of Thrones S08 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43731
+#EXTINF:-1,DE: Eagle Masha und der Bär FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43732
+#EXTINF:-1,DE: Elbekanal TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43733
+#EXTINF:-1,DE: ERF 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43734
+#EXTINF:-1,DE: eSports 1 TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43735
+#EXTINF:-1,DE: euronews HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43736
+#EXTINF:-1,DE: EUROSPORT 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43737
+#EXTINF:-1,DE: EUROSPORT 2 Exra
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43738
+#EXTINF:-1,DE: EUROSPORT 2 EXTRA FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43739
+#EXTINF:-1,DE: EUROSPORT 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43740
+#EXTINF:-1,DE: EUROSPORT 2 XTRA HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43741
+#EXTINF:-1,DE: EUROSPORT HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43742
+#EXTINF:-1,DE: EUROSPORT Xtra 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43743
+#EXTINF:-1,DE: eutsches Musik Fernsehen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43744
+#EXTINF:-1,DE: EWTN katholisches TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43745
+#EXTINF:-1,DE: Family TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43746
+#EXTINF:-1,DE: FC Bayern HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43747
+#EXTINF:-1,DE: Folx HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43748
+#EXTINF:-1,DE: FOX FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43749
+#EXTINF:-1,DE: Fox Series HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43750
+#EXTINF:-1,DE: FOX SPORTS 1
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43751
+#EXTINF:-1,DE: Franken Fernsehen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43752
+#EXTINF:-1,DE: FS1 AUSRTA
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43753
+#EXTINF:-1,DE: Genius Teleshopping HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43754
+#EXTINF:-1,DE: GOLDSTAR TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43755
+#EXTINF:-1,DE: Halle TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43756
+#EXTINF:-1,DE: Heimat kanal HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43757
+#EXTINF:-1,DE: HiperCinema
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43758
+#EXTINF:-1,DE: Histori
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43759
+#EXTINF:-1,DE: HR Fernsehen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43760
+#EXTINF:-1,DE: HR FREE
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43761
+#EXTINF:-1,DE: HR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43762
+#EXTINF:-1,DE: HyperCinema 2
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43763
+#EXTINF:-1,DE: HyperCInema 3
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43764
+#EXTINF:-1,DE: HyperCinema 4
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43765
+#EXTINF:-1,DE: HyperCinema 6
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43766
+#EXTINF:-1,DE: HyperCinema 7
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43767
+#EXTINF:-1,DE: HyperCinema 8
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43768
+#EXTINF:-1,DE: HyperCinema 9
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43769
+#EXTINF:-1,DE: HyperCinema 10
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43770
+#EXTINF:-1,DE: HyperCinema Boxset
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43771
+#EXTINF:-1,DE: HyperCinema INFO
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43772
+#EXTINF:-1,DE: ISAR TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43773
+#EXTINF:-1,DE: Jukebox HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43774
+#EXTINF:-1,DE: JUNIOR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43775
+#EXTINF:-1,DE: K-TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43776
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43777
+#EXTINF:-1,DE: Kabel 1 Docu HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43778
+#EXTINF:-1,DE: Kabel 1 DOKU FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43779
+#EXTINF:-1,DE: Kabel 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43780
+#EXTINF:-1,DE: Kabel eins Classics FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43781
+#EXTINF:-1,DE: Kabel Eins Doku HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43782
+#EXTINF:-1,DE: Kabel Eins FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43783
+#EXTINF:-1,DE: KIKA FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43784
+#EXTINF:-1,DE: Kino Premiere 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43785
+#EXTINF:-1,DE: Kino Premiere 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43786
+#EXTINF:-1,DE: Kino Premiere 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43787
+#EXTINF:-1,DE: Kino Premiere 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43788
+#EXTINF:-1,DE: Kino Premiere 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43789
+#EXTINF:-1,DE: Kino Premiere 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43790
+#EXTINF:-1,DE: Kino Premiere 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43791
+#EXTINF:-1,DE: Kino Premiere 8 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43792
+#EXTINF:-1,DE: Kino Premiere 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43793
+#EXTINF:-1,DE: Kino Premiere 10 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43794
+#EXTINF:-1,DE: Kino WELT HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43795
+#EXTINF:-1,DE: KiNOBOX 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43796
+#EXTINF:-1,DE: Kombat Sport
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43797
+#EXTINF:-1,DE: Krone Hit TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43798
+#EXTINF:-1,DE: KRONI HIT
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43799
+#EXTINF:-1,DE: Luxe Music
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43800
+#EXTINF:-1,DE: MAGIC BOX KINO 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43801
+#EXTINF:-1,DE: MAGIC BOX KINO 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43802
+#EXTINF:-1,DE: MAGIC BOX KINO 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43803
+#EXTINF:-1,DE: MAGIC BOX KINO 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43804
+#EXTINF:-1,DE: MAIN FRANKEN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43805
+#EXTINF:-1,DE: MAX Select 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43806
+#EXTINF:-1,DE: MAX Select 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43807
+#EXTINF:-1,DE: MAX Select 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43808
+#EXTINF:-1,DE: MAX Select 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43809
+#EXTINF:-1,DE: MAX Select 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43810
+#EXTINF:-1,DE: Max Select HD 5
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43811
+#EXTINF:-1,DE: Max Select HD 7
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43812
+#EXTINF:-1,DE: MDR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43813
+#EXTINF:-1,DE: MediaShop
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43814
+#EXTINF:-1,DE: MGM HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43815
+#EXTINF:-1,DE: Motor Vision HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43816
+#EXTINF:-1,DE: MoviesINEMA GERMAN 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43817
+#EXTINF:-1,DE: MoviesINEMA GERMAN 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43818
+#EXTINF:-1,DE: MoviesINEMA GERMAN 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43819
+#EXTINF:-1,DE: MoviesINEMA GERMAN 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43820
+#EXTINF:-1,DE: MoviesINEMA GERMAN 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43821
+#EXTINF:-1,DE: MTV Dance
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43822
+#EXTINF:-1,DE: MTV FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43823
+#EXTINF:-1,DE: MUENCHEN TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43824
+#EXTINF:-1,DE: Munchen TV FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43825
+#EXTINF:-1,DE: Music TV 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43826
+#EXTINF:-1,DE: N-TV FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43827
+#EXTINF:-1,DE: N24 Doku
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43828
+#EXTINF:-1,DE: N24 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43829
+#EXTINF:-1,DE: NAT GEO FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43830
+#EXTINF:-1,DE: NAT GEO Wild FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43831
+#EXTINF:-1,DE: NDR Fernsehen Mecklenburg Vorpommern HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43832
+#EXTINF:-1,DE: NDR Fernsehen Niedersachsen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43833
+#EXTINF:-1,DE: NDR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43834
+#EXTINF:-1,DE: NEIDER
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43835
+#EXTINF:-1,DE: NICK / MTV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43836
+#EXTINF:-1,DE: Nick Junior HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43837
+#EXTINF:-1,DE: Nick/Comedy Central
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43838
+#EXTINF:-1,DE: NICKELDEON HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43839
+#EXTINF:-1,DE: nickelodeon HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43840
+#EXTINF:-1,DE: Niederbayern TV Deggendorf FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43841
+#EXTINF:-1,DE: Niederbayern TV Landshut FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43842
+#EXTINF:-1,DE: Nitro FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43843
+#EXTINF:-1,DE: NO4A
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43844
+#EXTINF:-1,DE: Noa 4 Hamburg
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43845
+#EXTINF:-1,DE: NOA 4 Norderstedt FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43846
+#EXTINF:-1,DE: OBERPFALZ HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43847
+#EXTINF:-1,DE: Oe24 TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43848
+#EXTINF:-1,DE: OK TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43849
+#EXTINF:-1,DE: ONE HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43850
+#EXTINF:-1,DE: One Music HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43851
+#EXTINF:-1,DE: ORF1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43852
+#EXTINF:-1,DE: ORF2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43853
+#EXTINF:-1,DE: PEARL TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43854
+#EXTINF:-1,DE: Phoenix HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43855
+#EXTINF:-1,DE: PLANET FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43856
+#EXTINF:-1,DE: POPCORN SELECT 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43857
+#EXTINF:-1,DE: POPCORN SELECT 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43858
+#EXTINF:-1,DE: POPCORN SELECT 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43859
+#EXTINF:-1,DE: POPCORN SELECT 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43860
+#EXTINF:-1,DE: POPCORN SELECT 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43861
+#EXTINF:-1,DE: POPCORN SELECT 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43862
+#EXTINF:-1,DE: POPCORN SELECT 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43863
+#EXTINF:-1,DE: POPCORN SELECT 8 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43864
+#EXTINF:-1,DE: POPCORN SELECT 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43865
+#EXTINF:-1,DE: Pro 7 Fun FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43866
+#EXTINF:-1,DE: Pro 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43867
+#EXTINF:-1,DE: PRO 7 MAX HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43868
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43869
+#EXTINF:-1,DE: ProSieben FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43870
+#EXTINF:-1,DE: ProSieben FUN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43871
+#EXTINF:-1,DE: ProSieben Maxx FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43872
+#EXTINF:-1,DE: QVC 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43873
+#EXTINF:-1,DE: QVC Beauty & Style
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43874
+#EXTINF:-1,DE: QVC HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43875
+#EXTINF:-1,DE: QVC Plus
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43876
+#EXTINF:-1,DE: rbb HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43877
+#EXTINF:-1,DE: Regio TV Schwaben FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43878
+#EXTINF:-1,DE: Regio TV Stuttgart FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43879
+#EXTINF:-1,DE: RFO HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43880
+#EXTINF:-1,DE: Rhein Neckar Fernsehen
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43881
+#EXTINF:-1,DE: RiC TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43882
+#EXTINF:-1,DE: RNF TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43883
+#EXTINF:-1,DE: ro News
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43884
+#EXTINF:-1,DE: Romance HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43885
+#EXTINF:-1,DE: RTL 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43886
+#EXTINF:-1,DE: RTL 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43887
+#EXTINF:-1,DE: RTL 2 Luxemburg HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43888
+#EXTINF:-1,DE: RTL Crime FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43889
+#EXTINF:-1,DE: RTL FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43890
+#EXTINF:-1,DE: RTL Living FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43891
+#EXTINF:-1,DE: RTL Nitro FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43892
+#EXTINF:-1,DE: RTL Passion FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43893
+#EXTINF:-1,DE: RTL plus FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43894
+#EXTINF:-1,DE: RTL zwei FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43895
+#EXTINF:-1,DE: RTLIME
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43896
+#EXTINF:-1,DE: Sat 1 Emotions HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43897
+#EXTINF:-1,DE: Sat 1 Gold HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43898
+#EXTINF:-1,DE: Sat 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43899
+#EXTINF:-1,DE: Servus HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43900
+#EXTINF:-1,DE: SILVERLINE
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43901
+#EXTINF:-1,DE: Sixx FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43902
+#EXTINF:-1,DE: Sky 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43903
+#EXTINF:-1,DE: SKY 13 STREET FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43904
+#EXTINF:-1,DE: Sky Action FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43905
+#EXTINF:-1,DE: Sky Arts HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43906
+#EXTINF:-1,DE: Sky Atlantic +1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43907
+#EXTINF:-1,DE: Sky Atlantic FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43908
+#EXTINF:-1,DE: SKY AXN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43909
+#EXTINF:-1,DE: Sky Box Nation
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43910
+#EXTINF:-1,DE: Sky Cinema +1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43911
+#EXTINF:-1,DE: Sky Cinema +24 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43912
+#EXTINF:-1,DE: Sky Cinema 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43913
+#EXTINF:-1,DE: Sky Cinema 24 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43914
+#EXTINF:-1,DE: SKY Cinema Action FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43915
+#EXTINF:-1,DE: Sky Cinema Alien
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43916
+#EXTINF:-1,DE: Sky Cinema Atlantic FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43917
+#EXTINF:-1,DE: Sky Cinema Best Of HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43918
+#EXTINF:-1,DE: Sky Cinema Classics HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43919
+#EXTINF:-1,DE: Sky Cinema Comedy FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43920
+#EXTINF:-1,DE: Sky Cinema Comic Helden
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43921
+#EXTINF:-1,DE: Sky Cinema Emotion FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43922
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43923
+#EXTINF:-1,DE: Sky Cinema FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43924
+#EXTINF:-1,DE: Sky Cinema Fun HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43925
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43926
+#EXTINF:-1,DE: Sky Cinema Krimi HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43927
+#EXTINF:-1,DE: SKY CINEMA MITTELERDE
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43928
+#EXTINF:-1,DE: Sky Cinema Nostalgie FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43929
+#EXTINF:-1,DE: Sky Cinema Premiere +24 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43930
+#EXTINF:-1,DE: Sky Cinema Premiere FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43931
+#EXTINF:-1,DE: Sky Cinema Premieren +24 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43932
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43933
+#EXTINF:-1,DE: Sky Cinema Special HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43934
+#EXTINF:-1,DE: Sky Cinema Spezial HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43935
+#EXTINF:-1,DE: Sky Cinema Thriller HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43936
+#EXTINF:-1,DE: Sky Cinema TLC
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43937
+#EXTINF:-1,DE: SKY Cinema WESTERN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43938
+#EXTINF:-1,DE: SKY COMEDY FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43939
+#EXTINF:-1,DE: Sky Discovery Channel HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43940
+#EXTINF:-1,DE: Sky Disney Channel HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43941
+#EXTINF:-1,DE: SKY Emotion HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43942
+#EXTINF:-1,DE: SKY FAMILY FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43943
+#EXTINF:-1,DE: Sky Fox HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43944
+#EXTINF:-1,DE: Sky Germany A&E HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43945
+#EXTINF:-1,DE: Sky History HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43946
+#EXTINF:-1,DE: Sky Hits FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43947
+#EXTINF:-1,DE: Sky Junior HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43948
+#EXTINF:-1,DE: SKY KINOWELT TV HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43949
+#EXTINF:-1,DE: Sky Krimi FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43950
+#EXTINF:-1,DE: Sky NAT GEO HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43951
+#EXTINF:-1,DE: SKY Nostalgie HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43952
+#EXTINF:-1,DE: Sky PopCorn 2
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43953
+#EXTINF:-1,DE: Sky PopCorn 4
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43954
+#EXTINF:-1,DE: Sky PopCorn 5
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43955
+#EXTINF:-1,DE: SKY POPCORN SELECT 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43956
+#EXTINF:-1,DE: SKY POPCORN SELECT 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43957
+#EXTINF:-1,DE: SKY POPCORN SELECT 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43958
+#EXTINF:-1,DE: SKY POPCORN SELECT 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43959
+#EXTINF:-1,DE: SKY POPCORN SELECT 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43960
+#EXTINF:-1,DE: Sky Popcorn Select 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43961
+#EXTINF:-1,DE: Sky Romance TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43962
+#EXTINF:-1,DE: SKY RTL PASSION
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43963
+#EXTINF:-1,DE: SKY SELECT 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43964
+#EXTINF:-1,DE: Sky Select 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43965
+#EXTINF:-1,DE: Sky Select 3 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43966
+#EXTINF:-1,DE: Sky Select 4 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43967
+#EXTINF:-1,DE: Sky Select 5 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43968
+#EXTINF:-1,DE: SKY SELECT 6 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43969
+#EXTINF:-1,DE: SKY SELECT 7 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43970
+#EXTINF:-1,DE: Sky Select 8 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43971
+#EXTINF:-1,DE: Sky Select 9 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43972
+#EXTINF:-1,DE: Sky Select 10 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43973
+#EXTINF:-1,DE: Sky Select 11 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43974
+#EXTINF:-1,DE: Sky Select 12 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43975
+#EXTINF:-1,DE: Sky Select 13 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43976
+#EXTINF:-1,DE: Sky Select 14 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43977
+#EXTINF:-1,DE: Sky Select 15 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43978
+#EXTINF:-1,DE: Sky Select 16 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43979
+#EXTINF:-1,DE: Sky Select 17 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43980
+#EXTINF:-1,DE: Sky Select HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43981
+#EXTINF:-1,DE: Sky Select Super HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43982
+#EXTINF:-1,DE: Sky Serien & Shows HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43983
+#EXTINF:-1,DE: Sky Sport 1 +
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43984
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43985
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43986
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43987
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43988
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43989
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43990
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43991
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43992
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43993
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43994
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43995
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43996
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43997
+#EXTINF:-1,DE: Sky Sport 8 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43998
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/43999
+#EXTINF:-1,DE: Sky Sport 10 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44000
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44001
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44002
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44003
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44004
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44005
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44006
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44007
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44008
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44009
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44010
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44011
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44012
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44013
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44014
+#EXTINF:-1,DE: Sky Sport Bundesliga HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44015
+#EXTINF:-1,DE: Sky Sport DAZN 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44016
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44017
+#EXTINF:-1,DE: Sky Super Select 1 4K
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44018
+#EXTINF:-1,DE: Sky Super Select Vitrine FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44019
+#EXTINF:-1,DE: SKY SYFY HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44020
+#EXTINF:-1,DE: SKY TNT COMEDY
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44021
+#EXTINF:-1,DE: Sky TNT Film HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44022
+#EXTINF:-1,DE: SKY TNT Series HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44023
+#EXTINF:-1,DE: Sky Universal Channel HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44024
+#EXTINF:-1,DE: SKYLANTIC 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44025
+#EXTINF:-1,DE: Skylantic HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44026
+#EXTINF:-1,DE: SONNEKLAR TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44027
+#EXTINF:-1,DE: SONNENKLAR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44028
+#EXTINF:-1,DE: Sony AXN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44029
+#EXTINF:-1,DE: SONY Channel
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44030
+#EXTINF:-1,DE: Sony Enterainment HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44031
+#EXTINF:-1,DE: Spiegel Geschichte HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44032
+#EXTINF:-1,DE: SPIEGEL TV WISSEN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44033
+#EXTINF:-1,DE: Sport 1 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44034
+#EXTINF:-1,DE: Sport 1+ FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44035
+#EXTINF:-1,DE: Sport Digital FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44036
+#EXTINF:-1,DE: Sportdigital Fußball FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44037
+#EXTINF:-1,DE: SPORTS 1 USA HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44038
+#EXTINF:-1,DE: SR FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44039
+#EXTINF:-1,DE: SRF 2 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44040
+#EXTINF:-1,DE: SRF Info FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44041
+#EXTINF:-1,DE: SRF Zwei HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44042
+#EXTINF:-1,DE: Stendal TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44043
+#EXTINF:-1,DE: SUPER RTL FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44044
+#EXTINF:-1,DE: SWR Fernsehen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44045
+#EXTINF:-1,DE: SWR HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44046
+#EXTINF:-1,DE: SYFY FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44047
+#EXTINF:-1,DE: TAGESSCHAU 24 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44048
+#EXTINF:-1,DE: TELE 5 FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44049
+#EXTINF:-1,DE: TELE ZURI CH
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44050
+#EXTINF:-1,DE: Telebasel
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44051
+#EXTINF:-1,DE: TELECLUB ACTION HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44052
+#EXTINF:-1,DE: TELECLUB CINEMA FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44053
+#EXTINF:-1,DE: Teleclub Sport 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44054
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44055
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44056
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 3 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44057
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44058
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44059
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 6 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44060
+#EXTINF:-1,DE: TELEKOM BUNDESLIGA 7 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44061
+#EXTINF:-1,DE: TELEKOM DEL SPORT 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44062
+#EXTINF:-1,DE: TELEKOM DEL SPORT 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44063
+#EXTINF:-1,DE: TELEKOM DEL Sport 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44064
+#EXTINF:-1,DE: TELEKOM DEL Sport 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44065
+#EXTINF:-1,DE: Telekom Fussbal 1 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44066
+#EXTINF:-1,DE: Telekom Fussbal 2 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44067
+#EXTINF:-1,DE: Telekom Fussbal 4 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44068
+#EXTINF:-1,DE: Telekom Fussbal 5 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44069
+#EXTINF:-1,DE: TLC FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44070
+#EXTINF:-1,DE: TNT COMEDY FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44071
+#EXTINF:-1,DE: TNT Film FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44072
+#EXTINF:-1,DE: TNT Serie FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44073
+#EXTINF:-1,DE: TOGGO
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44074
+#EXTINF:-1,DE: TOGGO PLUS FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44075
+#EXTINF:-1,DE: TOGGO plus von Super RTL
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44076
+#EXTINF:-1,DE: Tom & Jerry HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44077
+#EXTINF:-1,DE: Travel Channel HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44078
+#EXTINF:-1,DE: TRP1
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44079
+#EXTINF:-1,DE: TV 25 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44080
+#EXTINF:-1,DE: TV A
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44081
+#EXTINF:-1,DE: TV A OSTBAYERN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44082
+#EXTINF:-1,DE: TV Aktuell
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44083
+#EXTINF:-1,DE: TV AKTUELLR
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44084
+#EXTINF:-1,DE: TV Halle
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44085
+#EXTINF:-1,DE: TV Kiel
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44086
+#EXTINF:-1,DE: TV OBERFRANKEN HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44087
+#EXTINF:-1,DE: TV Touring Fernsehen
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44088
+#EXTINF:-1,DE: TV Touring Wurzburg
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44089
+#EXTINF:-1,DE: TVO Oberfranken
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44090
+#EXTINF:-1,DE: UNIVERSAL Channel FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44091
+#EXTINF:-1,DE: utsches Musik Fernsehen
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44092
+#EXTINF:-1,DE: VIVA / Comedy Central
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44093
+#EXTINF:-1,DE: VIVA Comedy
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44094
+#EXTINF:-1,DE: Viyana TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44095
+#EXTINF:-1,DE: VOX FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44096
+#EXTINF:-1,DE: VOX UP
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44097
+#EXTINF:-1,DE: WDR Fernsehen HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44098
+#EXTINF:-1,DE: WDR Fernsehen Köln HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44099
+#EXTINF:-1,DE: WDR FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44100
+#EXTINF:-1,DE: Welt der Wunder TV
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44101
+#EXTINF:-1,DE: WELT FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44102
+#EXTINF:-1,DE: Welt N24 HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44103
+#EXTINF:-1,DE: Weltr Wunder
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44104
+#EXTINF:-1,DE: WILD HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44105
+#EXTINF:-1,DE: WWE HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44106
+#EXTINF:-1,DE: ZDF FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44107
+#EXTINF:-1,DE: ZDF Info HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44108
+#EXTINF:-1,DE: ZDF neo FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44109
+#EXTINF:-1,DE: Zee Neo HD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44110
+#EXTINF:-1,DE: ZEE One FHD
+http://iptv.iptv1980.com:8000/KB6IvA5Kfl/Cs01ZapGrV/44111
